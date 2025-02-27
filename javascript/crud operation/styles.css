@@ -1,0 +1,13 @@
+.card {
+    color: white;
+    background-color: rgb(114, 46, 225); 
+    padding: 5px; 
+    margin: 5px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+    overflow: scroll;
+}
+#add{
+    overflow: scroll;
+}

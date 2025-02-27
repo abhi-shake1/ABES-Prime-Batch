@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:0px; 
+
+}
+.rider{
+    padding:100px;
+    height: 100px;
+    width: 100px;
+    color:#f8adad;
+    background-color: green;
+    margin: 10px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: black;
+}
+.rider-1{
+    padding:100px;
+    height: 100px;
+    width: 100px;
+    color:#f8adad;
+    background-color: green;
+    margin: 16px;
+    
+}

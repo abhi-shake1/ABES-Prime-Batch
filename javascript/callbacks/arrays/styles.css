@@ -1,0 +1,14 @@
+#add{
+    overflow-x: scroll; 
+    background-color: rgb(181, 243, 245);
+    padding:2rem;
+    border:4rem solid black;
+}
+.card:hover{
+    color: blue;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: #eb9999;
+    
+
+}
